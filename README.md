@@ -14,20 +14,20 @@ You can add your own custom paths in .config/dioappfinder/dioappfinder.conf or u
 # Usage
   1. Open a terminal and run:
 
-		./configure
+		 ./configure
 
   2. if all went well then run:
 
-		make
-		sudo make install
+		 make
+		 sudo make install
 		
   3. Run the application or bind it to a key combination (defaul behavior is toggle open/close:
   
-		dioappfinder
+		 dioappfinder
 		
   4. To access the settings run:
   
-		dioappfinder-settings
+		 dioappfinder-settings
 
  Make sure you have the following packages installed:
 
