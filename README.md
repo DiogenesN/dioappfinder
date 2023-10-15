@@ -3,7 +3,7 @@ A simple nice fast application finder/launcher.
 By default it only searches for desktop files in /usr/share/applications
 You can add your own custom paths in .config/dioappfinder/dioappfinder.conf or use dioappfinder-settings to manage the paths. It was tested on Debian 12.
 
-# What you can do with dfiles
+# What you can do with DioAppFinder
    1. Search for installed applications (desktop files).
    2. Add a custom path to look for desktop files.
 
