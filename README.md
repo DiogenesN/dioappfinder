@@ -20,12 +20,17 @@ You can add your own custom paths in .config/dioappfinder/dioappfinder.conf or u
 
 		 make
 		 sudo make install
+
+  3. Navigate to appsettings directory and run:
+
+		 make
+		 sudo make install
 		
-  3. Run the application or bind it to a key combination (defaul behavior is toggle open/close):
+  4. Run the application or bind it to a key combination (defaul behavior is toggle open/close):
   
 		 dioappfinder
 		
-  4. To access the settings run:
+  5. To access the settings run:
   
 		 dioappfinder-settings
 
