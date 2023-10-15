@@ -21,7 +21,7 @@ You can add your own custom paths in .config/dioappfinder/dioappfinder.conf or u
 		 make
 		 sudo make install
 		
-  3. Run the application or bind it to a key combination (defaul behavior is toggle open/close:
+  3. Run the application or bind it to a key combination (defaul behavior is toggle open/close):
   
 		 dioappfinder
 		
