@@ -11,7 +11,7 @@ You can add your own custom paths in .config/dioappfinder/dioappfinder.conf or u
 ![Alt text](https://github.com/DiogenesN/dioappfinder/blob/main/dioappfinder.png)
 ![Alt text](https://github.com/DiogenesN/dioappfinder/blob/main/dioappfindersettings.png)
 
-# Usage
+# Installation/Usage
   1. Open a terminal and run:
 
 		 ./configure
@@ -39,3 +39,7 @@ You can add your own custom paths in .config/dioappfinder/dioappfinder.conf or u
 		make
 		pkgconf
 		libgtk-4-dev
+
+# Support
+  My Libera IRC support channel: #linuxfriends
+  Email: nicolas.dio@protonmail.com
