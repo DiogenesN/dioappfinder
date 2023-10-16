@@ -41,5 +41,7 @@ You can add your own custom paths in .config/dioappfinder/dioappfinder.conf or u
 		libgtk-4-dev
 
 # Support
-  My Libera IRC support channel: #linuxfriends
-  Email: nicolas.dio@protonmail.com
+
+   My Libera IRC support channel: #linuxfriends
+   Email: nicolas.dio@protonmail.com
+
