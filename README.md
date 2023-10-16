@@ -43,5 +43,6 @@ You can add your own custom paths in .config/dioappfinder/dioappfinder.conf or u
 # Support
 
    My Libera IRC support channel: #linuxfriends
+   
    Email: nicolas.dio@protonmail.com
 
