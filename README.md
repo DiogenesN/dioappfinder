@@ -11,7 +11,7 @@ You can add your own custom paths in .config/dioappfinder/dioappfinder.conf or u
 
 # Note
    If you want to use 'Add to favorites' option, you need to also install DioPanelMenu:
-   https://github.com/DiogenesN/dioapanelmenu
+   https://github.com/DiogenesN/diopanelmenu
 
 # Screenshots
 ![Alt text](https://github.com/DiogenesN/dioappfinder/blob/main/dioappfinder.png)
